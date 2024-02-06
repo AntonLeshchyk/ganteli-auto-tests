@@ -1,3 +1,3 @@
 # Ganteli auto-tests
 
-Test description.
+Test description...
